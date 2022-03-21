@@ -1,0 +1,20 @@
+name: PluginSB
+version: '${project.version}'
+main: me.lavarite.pluginsb.Items.PluginSB
+api-version: 1.18
+commands:
+  giveAOTE:
+    description: Gives Aspect Of The End to the player.
+    usage: /<command>
+  giveAOTV:
+    description: Gives Aspect Of The Void to the player.
+    usage: /<command>
+  giveAOTVM:
+    description: Gives Modified Aspect Of The Void to the player.
+    usage: /<command>
+  giveHYPE:
+    description: Gives Hyperion to the player.
+    usage: /<command>
+  giveFRAGS:
+    description: Gives Frags to the player.
+    usage: /<command> fucker
