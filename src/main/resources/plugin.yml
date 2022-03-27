@@ -1,6 +1,6 @@
 name: PluginSB
-version: '${project.version}'
-main: me.lavarite.pluginsb.Items.PluginSB
+version: 0.4.4
+main: com.jbouchier.pluginsb.PluginSB
 api-version: 1.18
 commands:
   giveAOTE:
@@ -17,4 +17,4 @@ commands:
     usage: /<command>
   giveFRAGS:
     description: Gives Frags to the player.
-    usage: /<command> fucker
+    usage: /<command>
